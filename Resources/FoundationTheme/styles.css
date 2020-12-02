@@ -69,8 +69,9 @@ h2 {
 }
 
 p {
-    margin-bottom: 15px;
-    line-height: 1.35;
+    margin-top: 20px;
+    font-size: 1.05em;
+    line-height: 1.5;
 }
 
 a {
